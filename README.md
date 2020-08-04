@@ -1,3 +1,2 @@
 # MDTBuildLab
-Implantação do Windows 10 and MDT
-
+Implantação do Windows 10 
