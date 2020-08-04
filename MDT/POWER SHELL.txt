@@ -1,0 +1,6 @@
+
+Digite o seguinte em um prompt do Windows PowerShell elevado:
+
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process -Force
+Set-Location C:\MDT
+.\Gather.ps1
